@@ -35,14 +35,14 @@ The **Student Performance Prediction** project predicts the math score of a stud
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/student-performance-prediction.git
+   git clone https://github.com/ishaaaa8/Student-Performance-Prediction.git
 
 
 ## 📸 Screenshot
 
 Below is a screenshot of the input form used for prediction:
 
-![Form Screenshot](assets/1ss.png)
+![Form Screenshot](assests/1ss.png)
 
 
 ## 💬 Contributing
